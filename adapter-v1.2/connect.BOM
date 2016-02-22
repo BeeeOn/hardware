@@ -1,0 +1,26 @@
+Bill of Material for 
+On 22.02.2016 at 9:19:24
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100nF               C0805            2    C8, C10                      Capacitor            
+ 10k                 R0805           14    R1, R2, R4, R5, R6, R8, R11  Resistor             
+                                           R13, R14, R15, R16, R17, R18
+                                           R19
+ 10pF                C0805            2    C2, C7                       Capacitor            
+ 150                 R0805            1    R7                           Resistor             
+ 1k                  R0805            1    R3                           Resistor             
+ 22                  R0805            2    R9, R10                      Resistor             
+ 32.768KHz           R38              1    Y2                           Crystal Oscillator   
+ BAT46               SOD-323          1    D3                           Default Diode        
+ Battery             BATT1220-horizontal    1    BT1                          Multicell Battery    
+ BMP180 Module       BMP180_MODULE    1    M2                           Digital Barometric Pressure Sensor Module 
+ BMP180              BMP180           1    M3                           Digital pressure sensor 
+ BUTTON              SPST_BTN         2    B1, B2                       Switch Button KSS341G 
+ GPIO-1              HDR127-20-F      1    P4                           Header, 40-Pin, pitch 1.27mm 
+ GPIO-2              HDR127-20-F      1    P5                           Header, 40-Pin, pitch 1.27mm 
+ LED MULTI3 CC       LED_MULTI - AXIAL    1    D2                           COMMON CATHODE, HSMF-A211-A00J1 - LED, SMD, RED/YEL-GRN 
+ MCP79410            SO8_M            1    U2                           Microchip i2c RTC real time clock 
+ MRF89XAM8A          MRF89XAM8A       1    M1                           868 MHz Ultra-Low Power  Sub-GHz Transceiver Module 
+ PNP_BC857           SOT23            1    Q1                           PNP Bipolar Transistor 
+ TARGET              TARGET           2    S1, S2                                            

@@ -1,0 +1,30 @@
+Bill of Material for 
+On 22.02.2016 at 8:59:23
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100nF               C0805            5    C1, C3, C4, C8, C10          Capacitor            
+ 10k                 R0805            1    R10                          Resistor             
+ 10uF                C0805            2    C2, C5                       Capacitor            
+ 1k                  R0805            1    R13                          Resistor             
+ 25LC040AT-I/OT      SOT-23-OT6_N     1    U4                           4K SPI Bus Serial EEPROM, 6-Pin SOT-23, Industrial Temperature, Tape and Reel 
+ 32.768KHz           R38              1    Y1                           Crystal Oscillator   
+ 330                 R0805            2    R6, R7                       Resistor             
+ 4k7                 R0805            6    R1, R2, R3, R4, R5, R8       Resistor             
+ 562k                R0805            1    R9                           Resistor             
+ 8pF                 C0805            2    C7, C9                       Capacitor            
+ 976k                R0805            1    R11                          Resistor             
+ BAT46               SOD-323          1    D5                           Default Diode        
+ Battery             BATT_HOLDER-AAA    2    BT1, BT2                     Multicell Battery    
+ BC847C              SOT23            2    T1, T2                       NPN General-purpose Transistor 
+ DBG_UART            HDR1X3           1    P1                           Header, 3-Pin        
+ EXT                 HDR1X3H          1    JP1                          Header, 3-Pin, Right Angle 
+ HTU21D Module       HTU21D           1    M2                           Digital Barometric Pressure Sensor Module 
+ Inductor            IND3x3           1    L1                           Inductor             
+ ISP PROG            HDR1X6           1    P2                           Header, 6-Pin        
+ LED                 LED MULTI2       4    D1, D2, D3, D4                                    
+ MCP1640             SOT-23-OT6_N     1    U5                           0.65V Start-up Synchronous Boost Regulator 
+ MRF89XAM8A          MRF89XAM8A       1    M1                           868 MHz Ultra-Low Power  Sub-GHz Transceiver Module 
+ PIC18F46J50-I/PT    TQFP-PT44_N      1    U1                           Low Power, High Performance USB Microcontroller with nanoWatt XLP Technology, 44-pin TQFP, Industrial Temperature 
+ TARGET              TARGET           4    S1, S2, S3, S4                                    
+ Vibra sensor 5x5    VIBRATION_SENSOR 5x5    1    U2                           Vibration sensor 5x5 

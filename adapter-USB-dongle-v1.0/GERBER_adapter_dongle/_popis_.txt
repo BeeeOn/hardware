@@ -1,0 +1,15 @@
+- 2 vrstvy PCB, konstrukcni trida 5. 
+
+Prilozene dokumenty: 
+
+top.gbr - top layer 
+bot.gbr - bottom layer 
+smt.gbr - solder top / maska 
+smb.gbr - solder bottom / maska 
+plt.gbr - potisk top 
+plb.gbr - potisk bottom 
+mil.gbr - obrys tistaku 
+pth.exc - souradnice na vrtani 
+seznam_vrtaku.TXT - seznam nastroju na vrtani 
+
+U vrtani se predpoklada, ze uvedeny prumer diry bude i vysledny prumer diry (je tedy potreba pouzit vetsi vrtak).

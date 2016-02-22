@@ -1,0 +1,24 @@
+Bill of Material for 
+On 22.02.2016 at 9:20:33
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100n                C0805            4    C7, C8, C9, C12              Capacitor            
+ 100nF               C0805            5    C1, C2, C3, C4, C5           Capacitor            
+ 10k                 R0805            2    R1, R8                       Resistor             
+ 10nF                C0805            1    C13                          Capacitor            
+ 10R                 R0805            2    R4, R6                       Resistor             
+ 12k                 R0805            1    R7                           Resistor             
+ 12MHz               OSC 5.0X3.2      1    Y1                           Crystal              
+ 1k                  R0805            2    R3, R5                       Resistor             
+ 27pF                C0805            2    C10, C11                     Capacitor            
+ 2k                  R0805            1    R9                           Resistor             
+ 39k                 R0805            1    R2                           Resistor             
+ 4.7uF               C0805            1    C6                           Capacitor            
+ 600R/0.5A           L0805            3    L1, L2, L3                   Inductor Ferrite Bead, BLM18PG 
+ 93LC56BT-I/OT       SOT-23-OT6_N     1    U2                           2K, 128x16-bit, 2.5V Microwire Serial EEPROM, 6-Pin SOT-23, Industrial Temperature, Tape and Reel 
+ FT232HL             LQFP-48_M        1    U1                           Single Channel HiSpeed USB to Multipurpose   UART/FIFO IC 
+ LED                 D0805            2    D1, D2                       Typical RED, GREEN, YELLOW, AMBER GaAs LED 
+ MRF89XAM8A          MRF89XAM8A       1    M1                           868 MHz Ultra-Low Power  Sub-GHz Transceiver Module 
+ USB-A-REC           USB/SM2.5-4H4A    1    J1                           USB 1.1, Right Angle, Thru-Hole, Reverse Type, 4 Position, Black 
+ VC080505A150        R0805            2    CR1, CR2                     Multilayer Ceramic Transient Voltage Suppressors 
